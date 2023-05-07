@@ -1,4 +1,4 @@
-# Algorithms Сhellenge Repository [1/30]
+# Algorithms Сhellenge Repository [day 1 of 30]
 
 This is repository for my chellenge: complete all Data Structures and Algorithms (course from leetcode) for 1 month
 
