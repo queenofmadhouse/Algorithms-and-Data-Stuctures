@@ -7,3 +7,4 @@
   - Squares of a Sorted Array (O(n) solution)
   - Maximum Average Subarray I (Sliding window)
   - Max Consecutive Ones III (Sliding window)
+
