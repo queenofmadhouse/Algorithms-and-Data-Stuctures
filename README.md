@@ -17,5 +17,5 @@ This is repository for my challenge: complete all Data Structures and Algorithms
 
 #### For what all this?
 
-I know Java well and write code. But I want to dive deeper into algorithms and data structures, so I decided to arrange such a challenge to study them
+I know Java well and write code. But I want to dive deeper into algorithms and data structures, so I decided to arrange such a challenge to study them.
 Also this is link to my [leetcode](https://leetcode.com/queenofmadhouse/) profile
