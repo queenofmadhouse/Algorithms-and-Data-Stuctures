@@ -1,4 +1,4 @@
-package twopointers;
+package arraysandstrings;
 
 public class ReverseString {
 
