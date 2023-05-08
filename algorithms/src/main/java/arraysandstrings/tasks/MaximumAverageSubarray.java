@@ -1,4 +1,4 @@
-package arraysandstrings;
+package arraysandstrings.tasks;
 
     /*
     Example 1:

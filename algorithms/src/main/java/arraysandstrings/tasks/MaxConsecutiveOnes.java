@@ -1,4 +1,4 @@
-package arraysandstrings;
+package arraysandstrings.tasks;
 
     /*
     Given a binary array nums and an integer k, return the maximum number of consecutive 1's
