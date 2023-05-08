@@ -1,4 +1,4 @@
-# Algorithms Challenge Repository [day 1 of 30]
+# Algorithms Challenge Repository [day 2 of 30]
 
 This is repository for my challenge: complete all Data Structures and Algorithms (course from leetcode) for 1 month
 
