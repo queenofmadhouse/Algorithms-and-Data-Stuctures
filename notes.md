@@ -12,6 +12,6 @@
 - Complete some tasks in the same topic:
   - Running Sum of 1d Array(prefix sum)
   - Minimum Value to Get Positive Step by Step Sum
-- Also change structure for repository:
+- Also changed structure for repository:
   - Examples added in package "examples"
   - Task solving moved to package "task"
