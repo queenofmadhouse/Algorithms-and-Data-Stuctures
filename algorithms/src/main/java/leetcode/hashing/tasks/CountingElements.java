@@ -47,5 +47,3 @@ public class CountingElements {
         return count;
     }
 }
-
-
