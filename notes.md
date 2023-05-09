@@ -15,3 +15,11 @@
 - Also changed structure for repository:
   - Examples added in package "examples"
   - Task solving moved to package "task"
+
+### Day 3:
+- I completed first topic
+- Start reading hashing chapter
+- Complete some tasks:
+  - Checking for existence
+  - Missing Number
+  - Counting Elements
