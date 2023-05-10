@@ -23,3 +23,12 @@
   - Checking for existence
   - Missing Number
   - Counting Elements
+
+### Day 4:
+- Continue reading hashing chapter
+- Added some examples from hashing chapter
+- Complete some easy/medium task on leetcode
+- Also complete some from chapter hashing:
+  - Find Players With Zero or One Losses
+  - Largest Unique Number
+  - Maximum Number of Balloons
