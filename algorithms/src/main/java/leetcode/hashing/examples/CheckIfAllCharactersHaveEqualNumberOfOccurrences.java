@@ -1,4 +1,4 @@
-package leetcode.hashing.examples.counting;
+package leetcode.hashing.examples;
 
 import java.util.HashMap;
 import java.util.HashSet;
