@@ -1,4 +1,4 @@
-package leetcode.hashing.examples;
+package leetcode.hashing.examples.checkingforexistence;
 
 import java.util.HashSet;
 import java.util.Set;

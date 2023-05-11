@@ -1,4 +1,4 @@
-package leetcode.hashing.examples;
+package leetcode.hashing.examples.morehashingexamples;
 
 import java.util.ArrayList;
 import java.util.Arrays;
