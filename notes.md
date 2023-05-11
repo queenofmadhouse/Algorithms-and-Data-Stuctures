@@ -32,3 +32,12 @@
   - Find Players With Zero or One Losses
   - Largest Unique Number
   - Maximum Number of Balloons
+
+### Day 5:
+- Complete hashing chapter
+- Complete some tasks on leetcode
+- Also complete some from chapter hashing:
+  - Ransom Note
+  - Jewels and Stones
+  - Longest Substring Without Repeating Characters
+- Made package refactoring again
