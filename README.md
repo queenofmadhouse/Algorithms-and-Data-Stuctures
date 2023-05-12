@@ -1,8 +1,11 @@
 # Algorithms Challenge Repository [day 5 of 30]
 
-This is repository for my challenge: complete all Data Structures and Algorithms (course from leetcode) for 1 month
+> This repository is a challenge. Its purpose is to solve all algorithms and write data structures within exactly one month.
 
-#### All my solutions to problems by topic:
+### What is it for?
+I already have a pretty good knowledge of Java, but I wanted to delve into algorithms and data structures in more detail.
+
+### All my solutions to problems by topic:
 
 - Arrays and strings
 - Hashing
@@ -15,7 +18,4 @@ This is repository for my challenge: complete all Data Structures and Algorithms
 - Backtracking
 - Dynamic programming
 
-#### For what all this?
-
-I know Java well and write code. But I want to dive deeper into algorithms and data structures, so I decided to arrange such a challenge to study them.
-Also this is link to my [leetcode](https://leetcode.com/queenofmadhouse/) profile
+You can find even more solutions in my [**Leetcode**](https://leetcode.com/queenofmadhouse/) profile
