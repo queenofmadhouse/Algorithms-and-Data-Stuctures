@@ -41,3 +41,12 @@
   - Jewels and Stones
   - Longest Substring Without Repeating Characters
 - Made package refactoring again
+
+## Day 6:
+- To much work..
+
+## Day 7:
+- Second chapter fully completed
+- Also about 8 tasks completed on leetcode
+- I started reading third chapter
+- I also realized that 30 days would not be enough for this course, but I will keep try.
